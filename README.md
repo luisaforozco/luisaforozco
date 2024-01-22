@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Luisa Orozco and I am a Research Software Engineer at the [Netherlands eScience center](https://www.esciencecenter.nl/) in the Natural Sciences and engineering section ⚛️. I have a scientific background in geotechnics, mechanics of granualr materials and statistical physics. Nowadays I collaborate with researchers 🧑‍🔬 to create better research software increasing its impact 💥
+My name is Luisa Orozco and I am a Research Software Engineer at the [Netherlands eScience center](https://www.esciencecenter.nl/) in the Natural Sciences and engineering section ⚛️. I have a scientific background in geotechnics, mechanics of granular materials and statistical physics. Nowadays I collaborate with researchers 🧑‍🔬 to create better research software increasing its impact 💥
 
 🔬 I'm driven by the challenge of unraveling complex engineering problems and dedicated to advancing our understanding of material science.
 
